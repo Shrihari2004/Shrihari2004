@@ -1,83 +1,62 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shrihari%20Krishna%20Kasbe&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20Explorer%20%7C%20Learning%20by%20Building&descSize=18&descAlignY=55&textBg=false"/>
 
-# 🌟 Welcome to Shrihari Krishna Kasbe's Profile 🌟
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=https://github.com/Shrihari2004">
+    <img src="https://komarev.com/ghpvc/?username=https://github.com/Shrihari2004&label=Profile%20views&color=00FFFF&style=flat-square" alt="https://github.com/Shrihari2004's profile views" />
+  </a>
+</p>
 
-<p><em>Applied AI student focused on practical problem-solving through projects.
-Learning by building and refining real systems.</em></p>
+## 📌 About Me
+-I learn best by building systems, not by memorizing concepts
+-Interested in how backend logic and AI decisions shape user experience
+-Enjoy turning vague ideas into structured, working solutions
+-Believe good systems reduce confusion — for both users and developers
+-Prefer clarity, consistency, and clean design over complexity
 
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
 
-</div>
+## 🧠 My Focus Areas
+-Applied AI & Machine Learning
+-Backend & System Design
+-Automation & Workflow Optimization
+-NLP & Conversational Systems
+-Web Application Development
+-Problem Solving with Code
 
-<hr>
 
-## 🔭 I'm currently working on
+## 🛠️ Languages & Tools
 
-<div align="center"><p>Currently exploring ideas, tools, and patterns in applied AI through hands-on learning.</p></div>
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
 
-## 🌱 I'm currently learning
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
 
-<div align="center"><p>-Build a strong understanding of applied AI through hands-on experimentation
--Learn how AI models behave under real-world constraints
--Improve problem decomposition and system-level thinking
--Develop clarity in translating ideas into working solutions
--Strengthen fundamentals through consistent project-based learning</p></div>
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="48" height="48" style="margin: 4px;" /></p>
 
-## 👀 I'm interested in
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
 
-<div align="center"><p>-Applied Artificial Intelligence and Machine Learning
--Understanding how systems make decisions
--Experimenting with small prototypes and ideas
--Exploring the intersection of technology and human needs
--Continuous learning through building and reflection</p></div>
+> ## DevOps & Cloud
+<p align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /></p>
 
-## 💻 Tech Stack
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Shrihari2004&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
 
-### 🎨 Frontend
+## 🔗 Connect with Me
+<p align="center"><a href="www.linkedin.com/in/shrihari-kasbe-335060261" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/917483707839" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:shriharikasbe63@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4">
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1">
-
-### 🧠 AI/ML
-
-<img src="https://img.shields.io/badge/-TensorFlow-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Scikit-Learn-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Keras-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Hugging Face-05122A?style=for-the-badge&color=00CED1">
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500">
-
-</div>
-
-## 🌐 Socials
-
-<div align="center">
-
-<a href="https://github.com/Shrihari2004"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="www.linkedin.com/in/shrihari-kasbe-335060261"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
-
-</div>
-
-## 📫 How to reach me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <div align="center">
-
-**Email:** shriharikasbe63@gmail.com
-**Phone:** +917483707839
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<div align="center">
-
-<!-- ⚠️ Important: Replace 'Shrihari2004' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=Shrihari2004&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/Shrihari2004?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
-
-</div>
