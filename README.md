@@ -2,10 +2,6 @@
 
 
 ## 📌 About Me
--I learn best by building systems, not by memorizing concepts
--Interested in how backend logic and AI decisions shape user experience
--Enjoy turning vague ideas into structured, working solutions
--Believe good systems reduce confusion — for both users and developers
 -I learn best by building systems, not by memorizing concepts<br>
 -Interested in how backend logic and AI decisions shape user experience<br>
 -Enjoy turning vague ideas into structured, working solutions<br>
@@ -14,11 +10,6 @@
 
 
 ## 🧠 My Focus Areas
--Applied AI & Machine Learning
--Backend & System Design
--Automation & Workflow Optimization
--NLP & Conversational Systems
--Web Application Development
 -Applied AI & Machine Learning<br>
 -Backend & System Design<br>
 -Automation & Workflow Optimization<br>
