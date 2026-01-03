@@ -1,10 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shrihari%20Krishna%20Kasbe&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20Explorer%20%7C%20Learning%20by%20Building&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=https://github.com/Shrihari2004">
-    <img src="https://komarev.com/ghpvc/?username=https://github.com/Shrihari2004&label=Profile%20views&color=00FFFF&style=flat-square" alt="https://github.com/Shrihari2004's profile views" />
-  </a>
-</p>
 
 ## 📌 About Me
 -I learn best by building systems, not by memorizing concepts
